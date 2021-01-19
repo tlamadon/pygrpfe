@@ -1,10 +1,13 @@
 pygfe
 --------
 
+.. image:: https://travis-ci.com/tlamadon/pygfe.svg?branch=main
+    :target: https://travis-ci.com/tlamadon/pygfe
+
 `pygfe` provides helping functions to use group fixed effects.
 
 .. |binder| image:: https://mybinder.org/badge_logo.svg 
-    :target: https://mybinder.org/v2/gh/tlamadon/pytwoway/HEAD?filepath=docs%2Fnotebooks%2Fpytwoway_example.ipynb
+    :target: https://mybinder.org/v2/gh/tlamadon/pygfe/HEAD?urlpath=docs-src%2Fnotebooks%2Fnb-gfe-exmaple1.ipynb
 
 If you want to give it a try, you can start the example notebook here: |binder|. 
 
