@@ -24,7 +24,7 @@ Bibtex entry::
 
   @techreport{blmgfe2020,
     title={Discretizing Unobserved Heterogeneity},
-    author={Bonhomme, St{\'e}phane and Holzheu,  Thibaut and Manresa and Elena and Mogstad},
+    author={Bonhomme, St{\'e}phane Bonhomme, Thibaut Lamadon and Elena Manresa},
     year={2020}
   }
 
