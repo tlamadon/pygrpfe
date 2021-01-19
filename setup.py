@@ -21,7 +21,7 @@ setuptools.setup(
         'tqdm',
         'scikit-learn',
         'ConfigArgParse',
-        'pytorch',
+        'torch',
         'statsmodels'
       ],
     classifiers=[

@@ -1,4 +1,4 @@
-pytwoway
+pygfe
 --------
 
 `pygfe` provides helping functions to use group fixed effects.
