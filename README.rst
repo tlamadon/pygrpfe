@@ -7,9 +7,9 @@ pygfe
 `pygfe` provides helping functions to use group fixed effects.
 
 .. |binder| image:: https://mybinder.org/badge_logo.svg 
-    :target: https://mybinder.org/v2/gh/tlamadon/pygfe/HEAD?urlpath=docs-src%2Fnotebooks%2Fnb-gfe-exmaple1.ipynb
+    :target: https://mybinder.org/v2/gh/tlamadon/pygfe/HEAD?filepath=docs-src%2Fnotebooks%2Fnb-gfe-example1.ipynb
 
-If you want to give it a try, you can start the example notebook here: |binder|. 
+If you want to give the method in action to reproduce part of the first figure of the paper, you can start the example notebook here: |binder|. 
 
 Quick Start
 -----------
