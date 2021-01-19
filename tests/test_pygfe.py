@@ -9,6 +9,8 @@ import pandas as pd
 import pygfe as gfe
 import numpy as np
 
+ax = np.newaxis
+
 def test_pygfe_group():
 
     def dgp_simulate(ni,nt,gamma=2.0,eps_sd=1.0):
