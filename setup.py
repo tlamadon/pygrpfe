@@ -4,14 +4,14 @@ with open('README.rst', 'r', encoding='utf-8') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='pygfe',
+    name='pygrpfe',
     version='0.1.0',
     author='Thibaut Lamadon',
     author_email='thibaut.lamadon@gmail.com',
     description='Helper functions of Group Fixed Effect',
     long_description=long_description,
     long_description_content_type='text/x-rst',
-    url='https://github.com/tlamadon/pygfe',
+    url='https://github.com/tlamadon/pygrpfe',
     packages=setuptools.find_packages(),
     install_requires=[
         'numpy',
