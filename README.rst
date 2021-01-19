@@ -1,4 +1,4 @@
-pygfe
+pygrpfe
 --------
 
 .. image:: https://travis-ci.com/tlamadon/pygfe.svg?branch=main

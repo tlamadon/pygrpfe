@@ -6,7 +6,7 @@ DATE: Jan 2021
 
 import pytest
 import pandas as pd
-import pygfe as gfe
+import pygrpfe as gfe
 import numpy as np
 
 ax = np.newaxis
