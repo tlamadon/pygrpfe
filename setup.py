@@ -20,7 +20,6 @@ setuptools.setup(
         'matplotlib',
         'tqdm',
         'scikit-learn',
-        'ConfigArgParse',
         'torch',
         'statsmodels'
       ],
